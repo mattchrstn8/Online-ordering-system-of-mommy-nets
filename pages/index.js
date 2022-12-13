@@ -1,3 +1,5 @@
+/* eslint-disable jsx-a11y/alt-text */
+/* eslint-disable @next/next/no-img-element */
 import axios from 'axios';
 import { useContext } from 'react';
 import { toast } from 'react-toastify';
