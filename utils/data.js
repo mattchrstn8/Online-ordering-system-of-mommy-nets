@@ -55,7 +55,7 @@ const data = {
       numReviews: 8,
       countInStock: 20,
       description:
-        'White Coated || Minimal Design of Icing || Minimal Color Design || Three Layer of Sponge Cakes || Cake Layer Filling',
+        'White Coated || Minimal Design of Icing || Minimal Color Design || Three Layer of Sponge Cakes || Cake Layer Filling ',
       isFeatured: true,
       banner: '/image/bn1.png',
     },

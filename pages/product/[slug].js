@@ -53,6 +53,12 @@ export default function ProductScreen(props) {
             <li>
               <b>Description:</b> {product.description}
             </li>
+            <li>
+              <b>Minimum Cage Size:</b> 18″x 30″x 18″
+            </li>
+            <li>
+              <b>Bar Spacing:</b> 1/4″ to 1/2″
+            </li>
           </ul>
         </div>
         <div>
