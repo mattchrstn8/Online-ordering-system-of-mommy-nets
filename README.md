@@ -1,8 +1,27 @@
+Hey, future devs. My name is Matt Christian Denalo i am the developer of this Online Ordering System of Mommy Net's Pastry together with my co-researcher. Ivan Carl Araneta, Marichu Bernado and Shiela Tenido. As the capstone requirement, we develop this system to help mommynets 
+gain large order and improve there services. 
+
+## Install 
+
+First, Install the following software to run this system:
+
+* Node.js
+* Git 
+* VsCode 
+
+Following with this extensions:
+
+* ES7+ React/Redux/React-Native snippets
+* ESLint javascript
+* JavaScript (ES6) code snippets
+* Prettier - Code formatter (Optional)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 
-First, run the development server:
+Second, run the development server:
 
 ```bash
 npm run dev
