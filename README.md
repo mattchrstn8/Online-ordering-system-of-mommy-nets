@@ -1,5 +1,5 @@
-Hey, future devs. My name is Matt Christian Denalo i am the developer of this Online Ordering System of Mommy Net's Pastry together with my co-researcher. Ivan Carl Araneta, Marichu Bernado and Shiela Tenido. As the capstone requirement, we develop this system to help mommynets 
-gain large order and improve there services. 
+Hey, future devs. My name is Matt Christian Denalo I am the developer of this Online Ordering System of Mommy Net's Pastry, together with my co-researcher. Ivan Carl Araneta, Marichu Bernado and Shiela Tenido. As the capstone requirement, we develop this system to help mommynets 
+gain large orders and improve their services. 
 
 ## Install 
 
